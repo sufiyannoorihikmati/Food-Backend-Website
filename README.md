@@ -11,3 +11,6 @@ HTML, CSS, JavaScript, PHP, SQL, Database
 
 
 ![Screenshot 2024-08-27 112305](https://github.com/user-attachments/assets/eb118b3c-aa9c-403f-9af9-fd6ddb88c56b)
+# Note:
+# Download the zip file as it is and Create one folder in that and have to gaive the Name "uploaded_img".
+# To run the website without any bug you have to change the menu.html to menu.php at some places.
